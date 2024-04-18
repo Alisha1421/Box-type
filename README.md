@@ -1,2 +1,2 @@
 # Box-type
-This is my second repository.
+Consol.log ("Hello World");
